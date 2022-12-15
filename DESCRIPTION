@@ -1,0 +1,16 @@
+Package: umupalette
+Type: Package
+Title: A Umea University Color Identity Palette Generator
+Description: Palettes generated from Umea University's three different color palettes.
+Version: 0.1.0
+Author: c(person("Edström", "Filip", role = c("aut", "cre"), 
+    email = "filip.edstrom@umu.se"))
+Maintainer: The package maintainer <filip.edstrom@umu.se>
+Encoding: UTF-8
+License: MIT + file LICENSE
+LazyData: true
+Suggests:
+    ggplot2
+URL: https://github.com/karthik/wesanderson
+BugReports: https://github.com/fileds/umupalette/issues
+RoxygenNote: 7.2.0
