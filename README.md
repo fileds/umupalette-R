@@ -8,6 +8,7 @@ install.packages("devtools")
 ```
 Then run
 ```R
+library(devtools)
 install_github("umupalette-R", username="fileds")
 ```
 
