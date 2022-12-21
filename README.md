@@ -1,5 +1,7 @@
 # umupalette
-R package proividing palettes generated from Umea University's three different color palettes. See https://www.aurora.umu.se/en/service-and-support/advice-and-guidelines/communication/visual-identity/ .
+R package proividing palettes generated from Umea University's three different color palettes. See https://www.aurora.umu.se/en/service-and-support/advice-and-guidelines/communication/visual-identity/.
+
+Code inspired by the very nice [wesanderson](https://rdrr.io/cran/wesanderson/) package ([GitHub](https://github.com/karthik/wesanderson).
 
 ## Installation GitHub
 To install the package from GitHub make sure you have `devtools` installed, otherwise run
