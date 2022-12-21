@@ -1,7 +1,10 @@
 # umupalette
-R package providing color palettes from Umea University's color identity. See https://www.aurora.umu.se/en/service-and-support/advice-and-guidelines/communication/visual-identity/. Note: please read the university's guide lines before using the visual identity.
+R package providing color palettes from Umea University's color identity. See https://www.aurora.umu.se/en/service-and-support/advice-and-guidelines/communication/visual-identity/. 
 
 Code inspired by the very nice [wesanderson](https://rdrr.io/cran/wesanderson/) package ([GitHub](https://github.com/karthik/wesanderson)).
+
+### Note
+Please read the university's guide lines before using the visual identity.
 
 ## Installation GitHub
 To install the package from GitHub make sure you have `devtools` installed, otherwise run
