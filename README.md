@@ -26,3 +26,17 @@ pal <- umu_palette(name = "light")
 pal <- umu_palette(name = "dark")
 ```
 `pal` is now a vector of four colors from the palette. See package documentation for more information.
+
+## Palettes
+These are the available palettes
+### Original
+![alt text](https://github.com/fileds/umupalette-R/blob/main/figures/umu-original.png)
+`umu_palette("original")`
+
+### Light
+![alt text](https://github.com/fileds/umupalette-R/blob/main/figures/umu-light.png)
+`umu_palette("light")`
+
+### Dark
+![alt text](https://github.com/fileds/umupalette-R/blob/main/figures/umu-dark.png)
+`umu_palette("dark")`
