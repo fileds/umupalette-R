@@ -11,6 +11,6 @@ License: MIT + file LICENSE
 LazyData: true
 Suggests:
     ggplot2
-URL: https://github.com/karthik/wesanderson
-BugReports: https://github.com/fileds/umupalette/issues
+URL: https://github.com/fileds/umupalette-R
+BugReports: https://github.com/fileds/umupalette-R/issues
 RoxygenNote: 7.2.0
